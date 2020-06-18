@@ -1,4 +1,5 @@
 print('*********artimetic operators*********')
+
 n1 = int(input('Digite um número: '))
 n2 = int(input('Digite outro: '))
 op = str(input('Digite um operador +, -, *, /, **, //, %: '))
