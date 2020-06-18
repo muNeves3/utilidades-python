@@ -1,4 +1,5 @@
 aling = 'Alinhamentos'
+
 print('{:=^49}'.format(aling))
 
 print('Á direita: :=>32 {:=>32}'.format(aling))
